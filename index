@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Rashid Enterprise | Marketing &amp; Advertising in Hargeisa</title>
+<meta name="description" content="Rashid Enterprise helps Hargeisa businesses grow with social media, billboards, branding, video, paid ads and WhatsApp campaigns.">
+<meta property="og:title" content="Rashid Enterprise | Hargeisa Marketing &amp; Advertising">
+<meta property="og:description" content="Get seen. Win more customers. Follow @rashidenterprise.">
+<meta property="og:type" content="website">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"AdvertisingAgency","name":"Rashid Enterprise","address":{"@type":"PostalAddress","addressLocality":"Hargeisa","addressCountry":"SO"},"sameAs":["https://instagram.com/rashidenterprise","https://facebook.com/rashidenterprise","https://tiktok.com/@rashidenterprise","https://x.com/rashidenterprise"]}</script>
+<style>
+:root{--bg:#fbf8f3;--bg2:#fff;--tx:#17202a;--mut:#5d6873;--ac:#0b8f5a;--ac2:#f2a516;--bd:#e7e0d4;--card:#fff;--sh:0 12px 34px rgba(20,30,40,.1);color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0d1310;--bg2:#131b17;--tx:#eef3ef;--mut:#9aa8a0;--ac:#2fd08a;--ac2:#ffbf3c;--bd:#24312a;--card:#16201b;--sh:0 12px 34px rgba(0,0,0,.45);color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0d1310;--bg2:#131b17;--tx:#eef3ef;--mut:#9aa8a0;--ac:#2fd08a;--ac2:#ffbf3c;--bd:#24312a;--card:#16201b;--sh:0 12px 34px rgba(0,0,0,.45);color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:calc(env(safe-area-inset-top,0px) + 72px)}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:"Plus Jakarta Sans",Inter,system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.6;overflow-x:hidden}
+a{color:inherit;text-decoration:none}
+:focus-visible{outline:3px solid var(--ac2);outline-offset:3px}
+.w{max-width:1120px;margin:0 auto;padding:0 20px}
+section{padding:76px 0}
+h1,h2,h3{line-height:1.12;margin:0 0 12px;letter-spacing:-.025em}
+h1{font-size:clamp(2.3rem,6.4vw,4.2rem)}h2{font-size:clamp(1.8rem,4vw,2.6rem)}
+.tag{display:inline-block;font-size:.78rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--ac);margin-bottom:10px}
+.mut{color:var(--mut)}
+.btn{display:inline-block;padding:13px 26px;border-radius:999px;font-weight:700;border:2px solid var(--ac);background:none;color:var(--tx);font:inherit;font-weight:700;cursor:pointer;transition:transform .2s,box-shadow .2s}
+.btn.p{background:linear-gradient(135deg,var(--ac),color-mix(in srgb,var(--ac) 70%,var(--ac2)));color:#fff;border-color:transparent}
+.btn:hover{transform:translateY(-3px);box-shadow:var(--sh)}
+#ld{position:fixed;inset:0;z-index:99;background:var(--bg);display:grid;place-items:center;transition:opacity .6s,visibility .6s}
+#ld.x{opacity:0;visibility:hidden}
+#ld i{width:74px;height:74px;border-radius:22px;background:linear-gradient(135deg,var(--ac),var(--ac2));display:grid;place-items:center;color:#fff;font:800 2rem system-ui;animation:pulse 1s ease-in-out infinite alternate}
+@keyframes pulse{to{transform:scale(1.18) rotate(8deg)}}
+#pg{position:fixed;top:0;left:0;height:3px;width:0;background:linear-gradient(90deg,var(--ac),var(--ac2));z-index:60}
+header{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 85%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--bd);padding-top:env(safe-area-inset-top,0px);margin-top:calc(-1*env(safe-area-inset-top,0px))}
+nav{display:flex;align-items:center;justify-content:space-between;height:64px;gap:10px}
+.logo{font-weight:800;display:flex;align-items:center;gap:8px;white-space:nowrap}
+.logo i{width:32px;height:32px;border-radius:10px;background:linear-gradient(135deg,var(--ac),var(--ac2));display:grid;place-items:center;color:#fff;font-style:normal}
+.links{display:flex;gap:20px;align-items:center;font-weight:600;font-size:.92rem}
+.links a:hover{color:var(--ac)}
+.ib{background:none;border:1px solid var(--bd);color:var(--tx);border-radius:10px;padding:7px 11px;cursor:pointer;font:inherit;font-weight:700}
+.nr{display:flex;gap:8px;align-items:center}
+#menu{display:none}
+@media(max-width:860px){#menu{display:block}.links{position:absolute;top:64px;left:0;right:0;background:var(--bg2);flex-direction:column;padding:18px;gap:16px;border-bottom:1px solid var(--bd);display:none}.links.open{display:flex}}
+.hero{position:relative;padding:84px 0 60px;overflow:hidden}
+.blob{position:absolute;border-radius:50%;filter:blur(70px);opacity:.34;animation:fl 12s ease-in-out infinite}
+.b1{width:360px;height:360px;background:var(--ac);top:-90px;right:-60px}.b2{width:300px;height:300px;background:var(--ac2);bottom:-100px;left:-80px;animation-delay:-5s}
+@keyframes fl{50%{transform:translate(34px,-30px) scale(1.12)}}
+.hero .w{position:relative;display:grid;grid-template-columns:1.15fr .85fr;gap:40px;align-items:center}
+@media(max-width:840px){.hero .w{grid-template-columns:1fr}}
+.hl{background:linear-gradient(90deg,var(--ac),var(--ac2));-webkit-background-clip:text;background-clip:text;color:transparent}
+#ty{border-right:3px solid var(--ac2);padding-right:3px;animation:bk .8s steps(1) infinite}
+@keyframes bk{50%{border-color:transparent}}
+.cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:26px}
+.trust{display:flex;gap:10px;align-items:center;margin-top:26px;font-size:.88rem}
+.trust .av{margin-left:-10px;border:2px solid var(--bg)}.trust .av:first-child{margin-left:0}
+.hv{position:relative}
+.hc{background:var(--card);border:1px solid var(--bd);border-radius:24px;padding:22px;box-shadow:var(--sh);animation:bob 6s ease-in-out infinite}
+@keyframes bob{50%{transform:translateY(-12px)}}
+.bar{height:10px;border-radius:6px;background:var(--bd);margin:6px 0 14px;overflow:hidden}
+.bar b{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--ac),var(--ac2));border-radius:6px;transition:width 1.8s cubic-bezier(.2,.8,.2,1)}
+.fc{position:absolute;background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:8px 14px;font-weight:700;font-size:.85rem;box-shadow:var(--sh);animation:bob 5s ease-in-out infinite}
+.f1{top:-16px;right:-6px;animation-delay:-2s}.f2{bottom:-18px;left:-8px;animation-delay:-3.5s}
+svg.ch path{fill:none;stroke:var(--ac);stroke-width:3;stroke-linecap:round;stroke-dasharray:400;stroke-dashoffset:400;transition:stroke-dashoffset 2.2s ease .5s}
+.on svg.ch path,svg.ch.go path{stroke-dashoffset:0}
+.mq{overflow:hidden;border-block:1px solid var(--bd);background:var(--bg2);padding:14px 0;white-space:nowrap}
+.mq div{display:inline-block;animation:mq 30s linear infinite;font-weight:700;color:var(--mut)}
+.mq span{margin:0 22px}.mq span::after{content:"✦";margin-left:44px;color:var(--ac2)}
+@keyframes mq{to{transform:translateX(-50%)}}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+@media(max-width:700px){.stats{grid-template-columns:repeat(2,1fr)}}
+.stat{background:var(--card);border:1px solid var(--bd);border-radius:20px;padding:22px;text-align:center}
+.stat b{font-size:2.2rem;color:var(--ac);display:block}
+.g{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:20px;padding:24px;transition:transform .25s,box-shadow .25s,border-color .25s}
+.card:hover{transform:translateY(-7px);box-shadow:var(--sh);border-color:var(--ac)}
+.ic{width:52px;height:52px;border-radius:15px;display:grid;place-items:center;font-size:1.5rem;background:color-mix(in srgb,var(--ac) 14%,transparent);margin-bottom:14px;transition:transform .3s}
+.card:hover .ic{transform:rotate(-8deg) scale(1.12)}
+.alt{background:var(--bg2);border-block:1px solid var(--bd)}
+.steps{counter-reset:s;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px}
+.st{counter-increment:s;background:var(--card);border:1px solid var(--bd);border-radius:20px;padding:26px 22px}
+.st::before{content:counter(s);display:grid;place-items:center;width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,var(--ac),var(--ac2));color:#fff;font-weight:800;margin-bottom:12px}
+.cl{display:flex;gap:14px;align-items:center}
+.av{flex:none;border-radius:50%;overflow:hidden;display:block}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.chip{font-size:.76rem;padding:4px 10px;border-radius:999px;border:1px solid var(--bd);color:var(--mut)}
+.res{color:var(--ac);font-weight:800;font-size:.92rem;margin-top:10px}
+.note{font-size:.85rem;background:color-mix(in srgb,var(--ac2) 16%,transparent);border:1px dashed var(--ac2);border-radius:12px;padding:10px 14px;margin-top:22px}
+.stars{color:var(--ac2);letter-spacing:2px}
+.rv2 p{margin:12px 0;font-size:1.05rem}
+.sl{overflow:hidden;border-radius:22px}.tk{display:flex;transition:transform .7s cubic-bezier(.3,.8,.3,1)}
+.sd{min-width:100%;padding:4px}
+.dots{display:flex;gap:8px;justify-content:center;margin-top:18px}
+.dots button{width:10px;height:10px;border-radius:50%;border:0;background:var(--bd);padding:0;cursor:pointer;transition:.3s}
+.dots button.on{background:var(--ac);width:30px;border-radius:6px}
+details{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:16px 20px;margin-bottom:10px}
+summary{cursor:pointer;font-weight:700}
+.soc{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+.soc a{padding:10px 15px;border-radius:12px;border:1px solid var(--bd);background:var(--card);font-weight:600;font-size:.9rem;transition:.2s}
+.soc a:hover{border-color:var(--ac);color:var(--ac);transform:translateY(-3px)}
+.ct{display:grid;grid-template-columns:1fr 1fr;gap:34px}
+@media(max-width:780px){.ct{grid-template-columns:1fr}}
+input,textarea,select{width:100%;padding:13px 14px;margin-bottom:12px;border-radius:12px;border:1px solid var(--bd);background:var(--bg);color:var(--tx);font:inherit}
+footer{padding:36px 0 90px;border-top:1px solid var(--bd);color:var(--mut);font-size:.9rem}
+.fg{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+.fg nav{height:auto;gap:16px;flex-wrap:wrap}
+#wa{position:fixed;right:max(16px,env(safe-area-inset-right,0px));bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:55;width:58px;height:58px;border-radius:50%;background:#25d366;color:#fff;display:grid;place-items:center;font-size:1.7rem;box-shadow:0 8px 24px rgba(37,211,102,.5);animation:ring 2.4s infinite}
+@keyframes ring{0%{box-shadow:0 0 0 0 rgba(37,211,102,.6)}70%,100%{box-shadow:0 0 0 18px rgba(37,211,102,0)}}
+#nf{position:fixed;inset:0;z-index:90;background:var(--bg);display:none;place-items:center;text-align:center;padding:20px}
+#nf.s{display:grid}#nf b{font-size:6rem;display:block}
+.rv{opacity:0;transform:translateY(34px);transition:opacity .8s,transform .8s}.rv.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.rv{opacity:1;transform:none}html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<div id="ld"><i>R</i></div><div id="pg"></div>
+<header><div class="w"><nav>
+<a href="#top" class="logo"><i>R</i>Rashid Enterprise</a>
+<div class="links" id="links"><a href="#services" data-t="n1">Services</a><a href="#how" data-t="n2">How it works</a><a href="#clients" data-t="n3">Our clients</a><a href="#reviews" data-t="n4">Reviews</a><a href="#faq" data-t="n5">FAQ</a></div>
+<div class="nr"><button class="ib" id="lang" aria-label="Language">SO</button><button class="ib" id="th" aria-label="Toggle theme">🌓</button><a class="btn p" href="#contact" style="padding:8px 16px" data-t="quote">Get a quote</a><button class="ib" id="menu" aria-label="Menu">☰</button></div>
+</nav></div></header>
+
+<main id="top">
+<section class="hero"><div class="blob b1"></div><div class="blob b2"></div>
+<div class="w">
+<div>
+<span class="tag" data-t="tag">Marketing &amp; Advertising · Hargeisa</span>
+<h1><span data-t="h1">We help Hargeisa businesses get seen and</span> <span class="hl" id="ty"></span></h1>
+<p class="mut" style="font-size:1.12rem;max-width:520px" data-t="sub">Billboards, social media, branding and digital ads, all built for the way people in Hargeisa shop, scroll and talk.</p>
+<div class="cta"><a class="btn p" href="#contact" data-t="c1">Start your campaign</a><a class="btn" href="#clients" data-t="c2">See our work</a></div>
+<div class="trust"><span id="tav" style="display:flex"></span><span class="mut">★ 4.9 · <span data-t="trust">Trusted by local businesses</span></span></div>
+</div>
+<div class="hv">
+<div class="fc f1">📈 +210% reach</div>
+<div class="hc"><b>Campaign snapshot</b> <span class="mut" style="font-size:.8rem">(sample)</span>
+<div style="margin-top:14px">Reach<div class="bar"><b data-w="86"></b></div>Engagement<div class="bar"><b data-w="72"></b></div>Walk-in customers<div class="bar"><b data-w="64"></b></div></div>
+<svg class="ch go" viewBox="0 0 300 70" width="100%" height="70" aria-hidden="true"><path d="M5 60 C40 55 55 30 90 38 S140 55 170 28 S230 20 295 8"/></svg></div>
+<div class="fc f2">💬 12 new WhatsApp leads</div>
+</div>
+</div></section>
+
+<div class="mq" aria-hidden="true"><div id="mq"></div></div>
+
+<section style="padding:44px 0"><div class="w stats rv">
+<div class="stat"><b data-n="120">0</b><span data-t="s1">Businesses helped</span></div>
+<div class="stat"><b data-n="350">0</b><span data-t="s2">Campaigns launched</span></div>
+<div class="stat"><b data-n="5">0</b><span data-t="s3">Years in Hargeisa</span></div>
+<div class="stat"><b data-n="98" data-p="%">0</b><span data-t="s4">Happy clients</span></div>
+</div></section>
+
+<section id="services"><div class="w">
+<span class="tag" data-t="n1">Services</span><h2 data-t="h2a">Everything your brand needs to grow</h2>
+<p class="mut" style="max-width:600px" data-t="p2a">One team for planning, creative and delivery. No chasing five suppliers.</p>
+<div class="g" id="svc" style="margin-top:28px"></div>
+</div></section>
+
+<section id="how" class="alt"><div class="w">
+<span class="tag" data-t="n2">How it works</span><h2 data-t="h2b">From first chat to real customers</h2>
+<div class="steps" id="stp" style="margin-top:28px"></div>
+</div></section>
+
+<section id="clients"><div class="w">
+<span class="tag" data-t="n3">Our clients</span><h2 data-t="h2c">Businesses we’ve helped</h2>
+<div class="g" id="cg" style="margin-top:28px"></div>
+<div class="note">Placeholder content: names, businesses and results are samples. Edit the <code>CLIENTS</code> and <code>REVIEWS</code> lists at the bottom of this file.</div>
+</div></section>
+
+<section id="reviews" class="alt"><div class="w">
+<span class="tag" data-t="n4">Reviews</span><h2 data-t="h2d">What our clients say</h2>
+<div class="sl" style="margin-top:24px"><div class="tk" id="tk"></div></div><div class="dots" id="dt"></div>
+</div></section>
+
+<section id="faq"><div class="w" style="max-width:780px">
+<span class="tag" data-t="n5">FAQ</span><h2 data-t="h2e">Quick answers</h2>
+<details><summary>How much does it cost?</summary><p class="mut">Packages start small and grow with your goals. Book a free consultation for an exact quote.</p></details>
+<details><summary>Do you work with small shops?</summary><p class="mut">Yes. Most clients are local shops, restaurants and family businesses.</p></details>
+<details><summary>How fast will I see results?</summary><p class="mut">Ads and posts can bring enquiries in days. Brand growth builds over a few months.</p></details>
+<details><summary>Can we talk in Somali?</summary><p class="mut">Of course. We work in Somali, English and Arabic.</p></details>
+<details><summary>Do I own my designs and content?</summary><p class="mut">Yes. Everything we create for you is yours once the project is paid.</p></details>
+</div></section>
+
+<section id="contact" class="alt"><div class="w ct">
+<div class="rv"><span class="tag" data-t="cn">Contact</span><h2 data-t="h2f">Let’s grow your business</h2>
+<p class="mut">📍 Hargeisa, Somaliland<br>📞 +252 XX XXX XXXX (placeholder)<br>✉️ hello@rashidenterprise.com (placeholder)<br>🕘 Sat–Thu, 8:00–18:00</p>
+<div class="soc">
+<a href="https://instagram.com/rashidenterprise" target="_blank" rel="noopener">📸 @rashidenterprise</a>
+<a href="https://facebook.com/rashidenterprise" target="_blank" rel="noopener">👍 @rashidenterprise</a>
+<a href="https://tiktok.com/@rashidenterprise" target="_blank" rel="noopener">🎵 @rashidenterprise</a>
+<a href="https://x.com/rashidenterprise" target="_blank" rel="noopener">𝕏 @rashidenterprise</a>
+<a href="https://wa.me/252000000000" target="_blank" rel="noopener">💬 WhatsApp</a>
+</div></div>
+<div class="rv"><input id="n" placeholder="Your name" aria-label="Your name"><input id="b" placeholder="Business name" aria-label="Business name"><select id="s" aria-label="Service"><option>Social media marketing</option><option>Billboards &amp; outdoor</option><option>Branding &amp; design</option><option>Photo &amp; video</option><option>Paid ads</option><option>WhatsApp &amp; SMS campaigns</option></select><textarea id="m" rows="4" placeholder="Tell us what you need" aria-label="Message"></textarea>
+<button class="btn p" id="send" style="width:100%">Send via WhatsApp</button></div>
+</div></section>
+</main>
+
+<footer><div class="w fg"><div><b class="logo" style="color:var(--tx)"><i>R</i>Rashid Enterprise</b><div>Hargeisa · @rashidenterprise<br>© <span id="yr"></span> All rights reserved.</div></div>
+<nav><a href="#services">Services</a><a href="#how">How it works</a><a href="#clients">Clients</a><a href="#reviews">Reviews</a><a href="#contact">Contact</a></nav></div></footer>
+<a id="wa" href="https://wa.me/252000000000" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">💬</a>
+<div id="nf"><div><b class="hl">404</b><h2>Page not found</h2><a class="btn p" href="#top" onclick="document.getElementById('nf').classList.remove('s')">Back home</a></div></div>
+
+<script>
+// ===== EDIT ME. "photo" accepts a data: URI for a real, consented photo =====
+var CLIENTS=[
+{n:"Hodan Warsame",b:"Hodan Fashion House",t:"Fashion boutique",r:"+210% Instagram followers in 3 months",c:["#0b8f5a","#f2a516"],f:1},
+{n:"Abdirahman Jama",b:"Jama Auto Spares",t:"Auto spares",r:"2x weekly walk-in customers",c:["#2b6cb0","#63b3ed"],f:0},
+{n:"Ifrah Ahmed",b:"Ifrah Sweets & Cakes",t:"Bakery",r:"Fully booked every weekend",c:["#c05621","#f6ad55"],f:1},
+{n:"Mohamed Yusuf",b:"Oasis Restaurant",t:"Restaurant",r:"+60% dinner reservations",c:["#276749","#68d391"],f:0},
+{n:"Sagal Abdi",b:"Sagal Beauty Studio",t:"Beauty salon",r:"300+ new clients via TikTok",c:["#b83280","#f687b3"],f:1},
+{n:"Farhan Osman",b:"Hargeisa Tech Hub",t:"Electronics shop",r:"5x online enquiries",c:["#553c9a","#b794f4"],f:0},
+{n:"Dr. Amina Hassan",b:"Nabad Pharmacy",t:"Pharmacy",r:"+85% new local customers",c:["#0987a0","#76e4f7"],f:1},
+{n:"Liban Egal",b:"Berbera Road Properties",t:"Real estate",r:"40 qualified leads in 30 days",c:["#975a16","#ecc94b"],f:0},
+{n:"Khadra Ismail",b:"Al-Nur Academy",t:"School",r:"Enrolment up 35% this term",c:["#c53030","#fc8181"],f:1}];
+var REVIEWS=[
+{n:"Hodan Warsame",b:"Hodan Fashion House",q:"Rashid Enterprise changed how people see my brand. My Instagram went from quiet to busy, and customers say they found me online.",c:CLIENTS[0].c,f:1},
+{n:"Abdirahman Jama",b:"Jama Auto Spares",q:"The billboard and Facebook ads worked together perfectly. More people call and visit every week. Honest team.",c:CLIENTS[1].c,f:0},
+{n:"Ifrah Ahmed",b:"Ifrah Sweets & Cakes",q:"Their photos make my cakes look amazing. WhatsApp orders doubled and they always deliver on time.",c:CLIENTS[2].c,f:1},
+{n:"Mohamed Yusuf",b:"Oasis Restaurant",q:"Clear plan, fair price, real results. They explain the numbers in simple words. I love that.",c:CLIENTS[3].c,f:0},
+{n:"Sagal Abdi",b:"Sagal Beauty Studio",q:"Their TikTok videos brought us a new crowd of young customers. The salon is busy every day now.",c:CLIENTS[4].c,f:1},
+{n:"Liban Egal",b:"Berbera Road Properties",q:"Fast replies, creative ideas and quality leads. Our listings are finally getting attention.",c:CLIENTS[7].c,f:0}];
+var SVC=[["📱","Social media marketing","Content, posting and community care on Instagram, Facebook and TikTok."],["🪧","Billboards & outdoor","Prime city locations, signage, shop fronts and vehicle branding."],["🎨","Branding & design","Logos, packaging, flyers and menus people remember."],["🎥","Photo & video","Product shoots, promo films and reels that sell."],["📣","Paid ads","Targeted Facebook, Instagram and Google ads with clear reports."],["💬","WhatsApp & SMS campaigns","Reach customers directly with offers, launches and reminders."]];
+var STP=[["Free consultation","Tell us your goals and budget. No pressure."],["Custom plan","We pick the right channels and give a clear price."],["Create & launch","We design, shoot and publish. You approve first."],["Track & grow","Monthly reports show what worked. Then we improve it."]];
+var T={so:{n1:"Adeegyada",n2:"Sida ay u shaqeyso",n3:"Macaamiisha",n4:"Faallooyin",n5:"Su’aalo",quote:"Hel qiimo",tag:"Suuq-geyn & Xayeysiis · Hargeysa",h1:"Waxaan ka caawinaa ganacsiyada Hargeysa inay muuqdaan oo",sub:"Boorar, baraha bulshada, naqshadeyn iyo xayeysiis dhijitaal ah, oo loo dhisay sida dadka Hargeysa u dukaameystaan.",c1:"Bilow ololahaaga",c2:"Arag shaqadeena",trust:"Ganacsiyo badan ayaa aamina",s1:"Ganacsi la caawiyey",s2:"Ololayaal la bilaabay",s3:"Sano Hargeysa",s4:"Macaamiil faraxsan",h2a:"Wax kasta oo ganacsigaagu u baahan yahay si uu u koro",p2a:"Koox qura oo qorsheysa, abuurta, oo gaarsiisa.",h2b:"Hadal koowaad ilaa macaamiil dhab ah",h2c:"Ganacsiyada aan caawinnay",h2d:"Waxa macaamiishayadu yidhaahdaan",h2e:"Jawaabo degdeg ah",cn:"La xiriir",h2f:"Aan koriyo ganacsigaaga"}};
+var W={en:["fill their shops.","win more customers.","stand out online.","grow every month."],so:["buuxiyaan dukaamadooda.","helaan macaamiil badan.","ka muuqdaan online.","koraan bil kasta."]};
+var $=function(s){return document.querySelector(s)},L="en";
+function av(o,s){if(o.photo)return '<span class="av" style="width:'+s+'px;height:'+s+'px"><img src="'+o.photo+'" alt="'+o.n+'" width="'+s+'" height="'+s+'" loading="lazy" style="object-fit:cover"></span>';
+var i=o.n.replace("Dr. ","").split(" ").map(function(w){return w[0]}).join("").slice(0,2),id="g"+Math.random().toString(36).slice(2,8);
+var hair=o.f?'<path d="M50 22c-13 0-21 9-21 21v14c0 6 3 11 6 13-2-8-1-18 3-26 4 5 13 7 25 7 0 9 0 15-2 19 3-2 6-7 6-13V43c0-12-8-21-17-21z" fill="rgba(0,0,0,.3)"/>':'';
+return '<svg class="av" width="'+s+'" height="'+s+'" viewBox="0 0 100 100" role="img" aria-label="Photo placeholder: '+o.n+'"><defs><linearGradient id="'+id+'" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="'+o.c[0]+'"/><stop offset="1" stop-color="'+o.c[1]+'"/></linearGradient></defs><rect width="100" height="100" fill="url(#'+id+')"/>'+hair+'<circle cx="50" cy="40" r="15" fill="rgba(255,255,255,.93)"/><path d="M18 100c2-25 15-35 32-35s30 10 32 35z" fill="rgba(255,255,255,.93)"/><text x="50" y="92" text-anchor="middle" font-size="13" font-weight="700" fill="#17202a" font-family="system-ui">'+i+'</text></svg>'}
+$("#svc").innerHTML=SVC.map(function(s){return '<div class="card rv"><div class="ic">'+s[0]+'</div><h3>'+s[1]+'</h3><p class="mut">'+s[2]+'</p></div>'}).join("");
+$("#stp").innerHTML=STP.map(function(s){return '<div class="st rv"><h3>'+s[0]+'</h3><p class="mut">'+s[1]+'</p></div>'}).join("");
+$("#cg").innerHTML=CLIENTS.map(function(c){return '<div class="card rv"><div class="cl">'+av(c,64)+'<div><b>'+c.b+'</b><div class="mut" style="font-size:.9rem">'+c.n+'</div></div></div><div class="chips"><span class="chip">'+c.t+'</span><span class="chip">Hargeisa</span></div><div class="res">↑ '+c.r+'</div></div>'}).join("");
+$("#tk").innerHTML=REVIEWS.map(function(r){return '<div class="sd"><div class="card rv2"><div class="stars">★★★★★</div><p>“'+r.q+'”</p><div class="cl">'+av(r,54)+'<div><b>'+r.n+'</b><div class="mut" style="font-size:.88rem">'+r.b+'</div></div></div></div></div>'}).join("");
+$("#tav").innerHTML=[0,1,2,3].map(function(i){return av(CLIENTS[i],34)}).join("");
+var m=CLIENTS.map(function(c){return "<span>"+c.t+"</span>"}).join("");$("#mq").innerHTML=m+m+m+m;
+$("#dt").innerHTML=REVIEWS.map(function(_,i){return '<button aria-label="Review '+(i+1)+'" data-i="'+i+'"></button>'}).join("");
+var cur=0,tm;
+function go(i){cur=(i+REVIEWS.length)%REVIEWS.length;$("#tk").style.transform="translateX(-"+cur*100+"%)";document.querySelectorAll("#dt button").forEach(function(b,k){b.classList.toggle("on",k===cur)})}
+function rs(){clearInterval(tm);tm=setInterval(function(){go(cur+1)},5200)}
+document.querySelectorAll("#dt button").forEach(function(b){b.onclick=function(){go(+b.dataset.i);rs()}});
+var sx=0;$("#tk").addEventListener("touchstart",function(e){sx=e.touches[0].clientX},{passive:true});
+$("#tk").addEventListener("touchend",function(e){var d=e.changedTouches[0].clientX-sx;if(Math.abs(d)>40){go(cur+(d<0?1:-1));rs()}});
+go(0);rs();
+// typing
+var wi=0,ci=0,dl=false,te=$("#ty");
+(function t(){var w=W[L][wi];if(ci>w.length)ci=w.length;ci+=dl?-1:1;te.textContent=w.slice(0,ci);var d=dl?32:70;if(!dl&&ci===w.length){dl=true;d=1500}else if(dl&&ci<=0){dl=false;wi=(wi+1)%4;d=300}setTimeout(t,d)})();
+// language + theme
+$("#lang").onclick=function(){L=L==="en"?"so":"en";document.documentElement.lang=L;this.textContent=L==="en"?"SO":"EN";document.querySelectorAll("[data-t]").forEach(function(e){if(!e.dataset.en)e.dataset.en=e.textContent;e.textContent=L==="en"?e.dataset.en:(T.so[e.dataset.t]||e.dataset.en)});wi=0;ci=0;dl=false};
+$("#th").onclick=function(){var r=document.documentElement,d=r.dataset.theme?r.dataset.theme==="dark":matchMedia("(prefers-color-scheme:dark)").matches;r.dataset.theme=d?"light":"dark"};
+// reveal, counters, bars, progress
+var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add("in");io.unobserve(e.target)}})},{threshold:.12});
+document.querySelectorAll(".rv").forEach(function(x,i){x.style.transitionDelay=(i%3)*90+"ms";io.observe(x)});
+var co=new IntersectionObserver(function(es){es.forEach(function(e){if(!e.isIntersecting)return;var el=e.target,n=+el.dataset.n,s=performance.now(),p=el.dataset.p||"+";(function f(t){var q=Math.min((t-s)/1700,1);el.textContent=Math.round(n*(1-Math.pow(1-q,3)))+(q===1?p:"");if(q<1)requestAnimationFrame(f)})(s);co.unobserve(el)})},{threshold:.5});
+document.querySelectorAll("[data-n]").forEach(function(x){co.observe(x)});
+setTimeout(function(){document.querySelectorAll(".bar b").forEach(function(b){b.style.width=b.dataset.w+"%"})},900);
+addEventListener("scroll",function(){var h=document.documentElement;$("#pg").style.width=(scrollY/(h.scrollHeight-innerHeight)*100)+"%"},{passive:true});
+// nav, form, 404, loader
+$("#menu").onclick=function(){$("#links").classList.toggle("open")};
+document.querySelectorAll("#links a").forEach(function(a){a.onclick=function(){$("#links").classList.remove("open")}});
+$("#send").onclick=function(){var t="Hello Rashid Enterprise! I'm "+$("#n").value+" from "+$("#b").value+". I'm interested in: "+$("#s").value+". "+$("#m").value;window.open("https://wa.me/252000000000?text="+encodeURIComponent(t),"_blank")};
+function chk(){var h=location.hash,ok=true;if(h&&h.length>1){try{ok=!!document.querySelector(h)}catch(e){ok=false}}$("#nf").classList.toggle("s",!ok)}
+addEventListener("hashchange",chk);chk();
+$("#yr").textContent=new Date().getFullYear();
+addEventListener("load",function(){setTimeout(function(){$("#ld").classList.add("x")},800)});
+</script>
+</body>
+</html>
